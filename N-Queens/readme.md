@@ -121,8 +121,8 @@ class Solution {
 
 ***
 
-**You can use the above Markdown as a README and the Java code as your solution file.**
-<span style="display:none">[^1][^2][^3][^4][^5][^6][^7]</span>
+
+
 
 <div align="center">⁂</div>
 
